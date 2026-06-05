@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Hammad the bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "BlockHaven-56.aternos.me",
-    "port": 44340,
+    "ip": "MHASMP-DCZW.aternos.me",
+    "port": 23210,
     "version": "1.20.1",
     "try-creative": false
   },

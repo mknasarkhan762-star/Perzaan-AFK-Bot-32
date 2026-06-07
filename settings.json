@@ -8,7 +8,7 @@
   "server": {
     "ip": "MHASMP-DCZW.aternos.me",
     "port": 23210,
-    "version": "1.21.11 (132)",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
